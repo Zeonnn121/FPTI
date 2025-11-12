@@ -21,7 +21,7 @@ const Dashboard = ({ onNavigate }) => {
     <div className="dashboard">
       {/* Hero Section */}
       <div className="hero-section">
-        <h1>Welcome to FPTI</h1>
+        <h1>Welcome to JAZ Invest</h1>
         <p className="tagline">Invest your spare change, build your future</p>
       </div>
 

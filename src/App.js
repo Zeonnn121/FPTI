@@ -34,7 +34,7 @@ function AppContent() {
       <nav className="navbar">
         <div className="nav-brand">
           <span className="logo">💰</span>
-          <span className="brand-name">FPTI</span>
+          <span className="brand-name">JAZ Invest</span>
         </div>
         <div className="nav-menu">
           <button 
